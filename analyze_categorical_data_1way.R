@@ -6,7 +6,7 @@
 
 library(rio)
 
-data = import("data.xlsx")
+data = import("example_dataset_categorical.xlsx")
 
 # Run 1-way categorical analyses
 print("Running one-way tests...")
