@@ -44,3 +44,4 @@ for (num in 1:length(data)) {
   sink(type = "message")
   closeAllConnections()
 }
+print("One-way tests completed.")
