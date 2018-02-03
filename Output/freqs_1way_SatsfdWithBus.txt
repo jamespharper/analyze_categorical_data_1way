@@ -1,0 +1,13 @@
+[1] "A = SatsfdWithBus"
+Number of cases in table: 5212 
+Number of factors: 1 
+A
+   1    2    3    4    5   DK 
+  13  176  688 3555  694   86 
+  Response  Proportion
+4        4 0.682079816
+5        5 0.133154259
+3        3 0.132003070
+2        2 0.033768227
+6       DK 0.016500384
+1        1 0.002494244

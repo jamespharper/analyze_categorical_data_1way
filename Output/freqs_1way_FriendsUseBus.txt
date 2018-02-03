@@ -1,0 +1,10 @@
+[1] "A = FriendsUseBus"
+Number of cases in table: 5464 
+Number of factors: 1 
+A
+ Few Most Some 
+ 268  452 4744 
+  Response Proportion
+3     Some 0.86822840
+2     Most 0.08272328
+1      Few 0.04904832

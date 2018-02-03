@@ -1,0 +1,9 @@
+[1] "A = RecmndBusToFriends"
+Number of cases in table: 3481 
+Number of factors: 1 
+A
+  No  Yes 
+1898 1583 
+  Response Proportion
+1       No  0.5452456
+2      Yes  0.4547544

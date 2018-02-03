@@ -1,0 +1,9 @@
+[1] "A = ProblmsWithBus"
+Number of cases in table: 5464 
+Number of factors: 1 
+A
+  No  Yes 
+3070 2394 
+  Response Proportion
+1       No  0.5618594
+2      Yes  0.4381406
